@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the website Vijay Verma
 
 You can use the [editor on GitHub](https://github.com/vermavijay/vermavijay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List
+
 
 1. Numbered
 2. List
